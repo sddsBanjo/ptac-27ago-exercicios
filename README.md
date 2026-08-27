@@ -1,0 +1,1 @@
+# ptac-27ago-exercicios

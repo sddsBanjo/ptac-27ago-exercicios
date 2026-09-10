@@ -1,10 +1,9 @@
-import ListaUsuarios from "./components/ListaUsuarios";
+import NovoUsuario from './components/NovoUsuario';
 
 export default function App() {
   return (
-    <section>
-      <h1>Lista de Usuários</h1>
-      <ListaUsuarios></ListaUsuarios>
-    </section>
+    <>
+      <NovoUsuario></NovoUsuario>
+    </>
   )
 }
